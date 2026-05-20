@@ -70,7 +70,8 @@ Orijinal fayl silinir
 ↓
 Fidyə mesajı göstərilir
 
-
+## 📄 Hesabat
+Ətraflı məlumat üçün [ransomware-simulyator.pdf](./Ransomware-simulyator.pdf) faylına baxın.
 
 ## 📚 Öyrənilən Mövzular
 - AES şifrələmə alqoritmi
